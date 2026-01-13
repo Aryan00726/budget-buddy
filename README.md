@@ -1,70 +1,107 @@
-# Getting Started with Create React App
+# 💸 Budget Buddy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Budget Buddy is a modern **fintech web application** designed to help users track expenses, plan savings, analyze spending patterns, and earn rewards for building better financial habits.
 
-## Available Scripts
+Built with **React + Firebase**, Budget Buddy combines clean UI, smart analytics, and goal-based planning into a single seamless experience.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Live Demo
+🔗 https://fintech-expense-tracker.web.app
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## ✨ Features
 
-### `npm test`
+### 🔐 Authentication
+- Secure email/password authentication using Firebase Auth
+- Protected routes for authenticated users
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 📊 Dashboard
+- Real-time expense overview
+- Remaining budget & safe daily spend calculation
+- Visual charts for spending insights
 
-### `npm run build`
+### 🎯 Savings Planner
+- Create **multiple savings goals**
+- Track progress in real time
+- Auto-calculated monthly savings
+- Completed goals marked clearly
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 🎟 Voucher Rewards
+- Earn vouchers based on usage & discipline
+- Each voucher includes:
+  - Brand
+  - Offer
+  - Redemption criteria
+  - Status (Active / Redeemed / Locked)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🌗 Dark / Light Theme
+- One-click theme toggle
+- Theme preference saved automatically
+- Glassmorphism UI in both modes
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 📱 Responsive Design
+- Fully mobile-friendly
+- Optimized for phones, tablets, and desktops
 
-### `npm run eject`
+### ℹ️ About Page
+- Detailed project explanation
+- Services, uniqueness & real-world impact
+- Creator section with team roles
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🛠 Tech Stack
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- **Frontend:** React (Create React App)
+- **Backend:** Firebase
+- **Database:** Firestore
+- **Authentication:** Firebase Auth
+- **Styling:** CSS (Glassmorphism theme)
+- **Hosting:** Vercel / Firebase Hosting
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 🧠 Why Budget Buddy?
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Most people struggle with:
+- Overspending
+- Lack of financial awareness
+- No motivation to save
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Budget Buddy solves this by:**
+- Visualizing spending clearly
+- Encouraging goal-based saving
+- Rewarding consistency with vouchers
+- Making finance simple & engaging
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 👨‍💻 Creators
 
-### Analyzing the Bundle Size
+- **Aryan Sharma**  
+  _Frontend & Backend Integration_  
+  Implemented all ideas, handled authentication, database integration, and complete system flow.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- **Akshat Sharma**  
+  _Analytics & Data Logic_  
+  Designed analytics logic, charts, and implemented data analysis concepts.
 
-### Making a Progressive Web App
+- **Parth Aggarwal**  
+  _Ideation & Architecture_  
+  Project ideation, PPT creation, and system architecture design.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Kamal Kumar Kasaudhan**  
+  _Ideation & Documentation_  
+  Concept formation, presentation preparation, and planning.
 
-### Advanced Configuration
+- **Priyanshu Saini**  
+  _UI/UX Design_  
+  Designed the complete UI theme and website layout.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+---
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+git clone https://github.com/your-username/budget-buddy.git
+cd budget-buddy
