@@ -36,10 +36,6 @@ https://fintech-expense-tracker.web.app
   - Redemption criteria
   - Status (Active / Redeemed / Locked)
 
-### Dark / Light Theme
-- One-click theme toggle
-- Theme preference saved automatically
-- Glassmorphism UI in both modes
 
 ### Responsive Design
 - Fully mobile-friendly
