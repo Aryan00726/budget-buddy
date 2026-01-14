@@ -1,4 +1,4 @@
-# 💸 Budget Buddy
+# Budget Buddy
 
 Budget Buddy is a modern **fintech web application** designed to help users track expenses, plan savings, analyze spending patterns, and earn rewards for building better financial habits.
 
@@ -6,29 +6,29 @@ Built with **React + Firebase**, Budget Buddy combines clean UI, smart analytics
 
 ---
 
-## 🚀 Live Demo
-🔗 https://fintech-expense-tracker.web.app
+## Live Demo
+https://fintech-expense-tracker.web.app
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 - Secure email/password authentication using Firebase Auth
 - Protected routes for authenticated users
 
-### 📊 Dashboard
+### Dashboard
 - Real-time expense overview
 - Remaining budget & safe daily spend calculation
 - Visual charts for spending insights
 
-### 🎯 Savings Planner
+### Savings Planner
 - Create **multiple savings goals**
 - Track progress in real time
 - Auto-calculated monthly savings
 - Completed goals marked clearly
 
-### 🎟 Voucher Rewards
+### Voucher Rewards
 - Earn vouchers based on usage & discipline
 - Each voucher includes:
   - Brand
@@ -36,23 +36,23 @@ Built with **React + Firebase**, Budget Buddy combines clean UI, smart analytics
   - Redemption criteria
   - Status (Active / Redeemed / Locked)
 
-### 🌗 Dark / Light Theme
+### Dark / Light Theme
 - One-click theme toggle
 - Theme preference saved automatically
 - Glassmorphism UI in both modes
 
-### 📱 Responsive Design
+### Responsive Design
 - Fully mobile-friendly
 - Optimized for phones, tablets, and desktops
 
-### ℹ️ About Page
+### About Page
 - Detailed project explanation
 - Services, uniqueness & real-world impact
 - Creator section with team roles
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React (Create React App)
 - **Backend:** Firebase
@@ -63,7 +63,7 @@ Built with **React + Firebase**, Budget Buddy combines clean UI, smart analytics
 
 ---
 
-## 🧠 Why Budget Buddy?
+## Why Budget Buddy?
 
 Most people struggle with:
 - Overspending
@@ -78,7 +78,7 @@ Most people struggle with:
 
 ---
 
-## 👨‍💻 Creators
+## Creators
 
 - **Aryan Sharma**  
   _Frontend & Backend Integration_  
@@ -96,7 +96,7 @@ Most people struggle with:
   _Ideation & Documentation_  
   Concept formation, presentation preparation, and planning.
 
-- **Priyanshu Saini**  
+- **Priyanshi Saini**  
   _UI/UX Design_  
   Designed the complete UI theme and website layout.
 
