@@ -3,7 +3,6 @@
 Budget Buddy is a modern **fintech web application** designed to help users track expenses, plan savings, analyze spending patterns, and earn rewards for building better financial habits.
 
 Built with **React + Firebase**, Budget Buddy combines clean UI, smart analytics, and goal-based planning into a single seamless experience.
-
 ---
 
 ## Live Demo
